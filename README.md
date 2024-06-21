@@ -7,8 +7,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/leonardoronnau?color=BA9939&labelColor=BA9951&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 <br />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=BA9951&width=435&lines=Hello%2C+I'm+Leonardo+Ronnau!)](https://git.io/typing-svg)
+<h1 align="center">Olá, Sou o Leonardo Ronnau</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">    
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
