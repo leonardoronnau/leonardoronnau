@@ -19,7 +19,7 @@
 
 <br /><br /><br /><br />
 
-#### Languages :
+#### Skils :
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -39,13 +39,6 @@
 
 <table>
   <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=leonardoronnau&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
     <td>
       <img
         align="left"
